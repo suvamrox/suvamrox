@@ -5,18 +5,27 @@ I have over 3 years of experience as a software engineer. I am full stack develo
 Feel free to contribute 
 
 ### My digital kitchen instrument  📐📏🖥
-- [ExpressJs](https://expressjs.com/)
-- [Mongo DB](https://www.mongodb.com/)
-- [Angular](https://angular.io/)
-- [ionic](https://ionicframework.com/)
-- [MQTT.js](https://www.npmjs.com/package/mqtt)
-- [Mosquitto](https://mosquitto.org/)
-- [SOCKET.IO](https://socket.io/)
-- [Digitalocean](https://www.digitalocean.com/)
-- [git](https://git-scm.com/)
-- [jquery](https://jquery.com/)
-- [Postman](https://www.postman.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/%20-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ionic-informational?style=flat&logo=Ionic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JSON%20Web%20Tokens-informational?style=flat&logo=JSON%20Web%20Tokens&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Socket.io-informational?style=flat&logo=Socket.io&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MQTT-informational?style=flat&logo=Eclipse%20Mosquitto&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Let’s%20Encrypt-informational?style=flat&logo=Let’s%20Encrypt&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PageSpeed%20Insights-informational?style=flat&logo=PageSpeed%20Insights&logoColor=white&color=2bbc8a)
+
+
+
 
 
 
